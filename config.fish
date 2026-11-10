@@ -28,7 +28,7 @@ abbr v "nvim"
 # 龙虾🦞
 abbr claw "openclaw"
 abbr lxia "openclaw"
-abbr vfish "nvim /Users/neptune/.config/fish/config.fish"
+abbr vfish "nvim ~/.config/fish/config.fish"
 abbr cdgh "codegraph"
 
 abbr clr "clear"
